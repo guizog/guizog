@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm guizog</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Im a computer science student</h3>
 
 - 🔭 I’m currently working on [a sandbox particle simulator](https://github.com/guizog/SDL_Sandbox)
 
 - 🌱 I’m currently learning **SDL2(C/C++), ASP.NET Core MVC, Typescript and the STM32F1xx family of microcontrollers**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
