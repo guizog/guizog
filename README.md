@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a sandbox particle simulator](https://github.com/guizog/SDL_Sandbox)
 
-- 🌱 I’m currently learning **SDL2(C/C++), ASP.NET Core MVC, Typescript and the STM32F1xx family of microcontrollers**
+- 🌱 I’m currently learning **SDL2(C/C++) and OpenGL**
 <p align="left">
 </p>
 
