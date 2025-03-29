@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm guizog</h1>
 <h3 align="center">Im a computer science student</h3>
 
-- 🔭 I’m currently working on [a sandbox particle simulator](https://github.com/guizog/SDL_Sandbox)
+- 🔭 I’m currently working on HTTP WebServer made in C
 
 - 🌱 I’m currently learning **SDL2(C/C++) and OpenGL**
 <p align="left">
